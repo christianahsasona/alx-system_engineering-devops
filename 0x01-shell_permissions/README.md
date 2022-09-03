@@ -1,1 +1,1 @@
-8. Script that sets permission to the file hello as no permission to owner, no permission to group, all permission to other users
+9. Script that sets mode of the file hello to all permission to owner,only read and execute permission to group, only write and execute permission to other users
