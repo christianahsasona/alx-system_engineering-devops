@@ -1,1 +1,1 @@
-7. Script that adds execution permission to the owner, the group owner and the users to the file hello
+8. Script that sets permission to the file hello as no permission to owner, no permission to group, all permission to other users
