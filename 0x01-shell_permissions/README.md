@@ -1,1 +1,1 @@
-14. Script that changes the owner too vincent and group owner to staff for all files and directories
+15. Script that changes the owner and group owner of _hello to vincent and staff respectively
