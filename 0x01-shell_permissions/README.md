@@ -1,1 +1,1 @@
-9. Script that sets mode of the file hello to all permission to owner,only read and execute permission to group, only write and execute permission to other users
+10. Script that sets the mode of the file hello to the same as ollehs mode
