@@ -1,1 +1,1 @@
-12. Script that change group owner to school from the file hello
+14. Script that changes the owner too vincent and group owner to staff for all files and directories
