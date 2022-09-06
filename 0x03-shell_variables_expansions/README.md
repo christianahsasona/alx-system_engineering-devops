@@ -1,1 +1,1 @@
-13. script that prints a number with two decimal places, followed by a new line.
+7.script that creates a new global variable.
