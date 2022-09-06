@@ -1,1 +1,1 @@
-7.script that creates a new global variable.
+14. script that converts a number from base 10 to base 16.
