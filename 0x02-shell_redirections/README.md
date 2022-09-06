@@ -1,1 +1,3 @@
-21. Script that reverse its input
+22. script that displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file
